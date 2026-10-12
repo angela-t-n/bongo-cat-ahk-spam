@@ -1,7 +1,9 @@
 # What is this?
+
 This AutoHotKey script just spams between F24 and F23 ("ghost keys") or any other key you want to add, for the purpose of getting Bongo Cat (Steam game) to bongo.
 
 # Why?
+
 While I'm gone to do chores, run errands, eat, attend classes, etc, Bongo Cat can have a chore too! It can get me more points on the battle pass... :)
 
 Technically yes, this does defeat the purpose of Bongo Cat bongo-ing only when you are actively using your computer. I just want the cosmetics faster :3 use only if you have the same goal!
